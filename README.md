@@ -18,6 +18,10 @@ Passionate about education and technologies.
 
 <br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=juniorteixeira1805"/>
+
+<br/>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Gilvan%20Carlos-3355cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilvan-carlos/)](https://www.linkedin.com/in/gilvan-carlos/) 
 [![Gmail Badge](https://img.shields.io/badge/-juniorteixeira1805@gmail.com-3355cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juniorteixeira1805@gmail.com)](mailto:juniorteixeira1805@gmail.com)
 
